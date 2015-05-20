@@ -1,5 +1,7 @@
 package main
 
+// used http://stackoverflow.com/a/15997595/909579
+
 import (
 	"encoding/json"
 	"fmt"
